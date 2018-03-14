@@ -5,7 +5,7 @@
 + [Material](#material)
 + [Diagrama del circuito](#diagrama-del-circuito)
 + [Codigo arduino](#codigo-arduino)
-+ [Circuito en fisico](#circuitos)
++ [Circuito en fisico](#circuito-en-fisico)
 + [Contacto](#contacto)
 ***
 ## Descripcion   
