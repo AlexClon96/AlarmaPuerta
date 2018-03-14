@@ -3,15 +3,15 @@
 ## Indice
 + [Despripcion](#descripcion)
 + [Material](#material)
-+ [Diagrama del circuito](#diagrama del circuito)
-+ [Codigo arduino](#codigo)
++ [Diagrama del circuito](#diagrama-del-circuito)
++ [Codigo arduino](#codigo-arduino)
 + [Circuito en fisico](#circuitos)
 + [Contacto](#contacto)
 ***
-## descripcion   
+## Descripcion   
 Este trabajo fue creado en **arduino** y consiste en una puerta que al momento en que se abre emite una alarma que activa una un led rojo y al mismo tiempo activa el pitido de una bocina,en cuanto se abra la puerta un **display** decrementa un contador que empieza en *cinco* y si llega a *uno* y la puerta esta cerrada entonces se desactiva la alarma pero si cuando llegue a *uno* y la pueta se encuentra abierta entonces el **display** de nuevo inicia en *cinco* y se decrementara realizando el mismo procedimiento.
 ***
-## material
+## Material
 1. placa arduino uno con cable usb
 2. protoboard
 3. led (*1*)
@@ -24,9 +24,9 @@ Este trabajo fue creado en **arduino** y consiste en una puerta que al momento e
 11. rectangulo de madera o carton (*solo para simular la puerta*)
 12. cinta diurex (*solo para pegar el iman a la puerta*)
 ***
-## diagrama del circuito 
+## Diagrama del circuito 
 ***
-## codigo
+## Codigo arduino
 ~~~
 /*MANUEL ALEJANDRO TORRES FONSECA
  *ALARMA PARA PUERTA CON TEMPORIZADOR  
@@ -84,9 +84,9 @@ void loop(){                                            //inicio del metodo loop
 }                                                       //se termina el metodo loop
 ~~~
 ***
-## circuitos 
+## Circuito en fisico 
 ![circuito1](/circuito1.jpg)  
 ![circuito2](/circuito2.jpg)
 ***
-## contacto
+## Contacto
 Cualquier duda, queja o aclaracion me pueden contactar en **correo:** 321ctorres@gmail.com  
