@@ -79,7 +79,8 @@ void loop(){                                            //inicio del metodo loop
 ~~~
 ***
 ## Circuito en fisico
-![circuito1](/circuito1.jpg)
+![circuito1](/circuito1.jpg)  
+![circuito2](/circuito2.jpg)
 ***
 ## Contacto
 Cualquier duda, queja o aclaracion me pueden contactar en **correo:** 321ctorres@gmail.com  
