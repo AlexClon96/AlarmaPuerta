@@ -3,8 +3,8 @@
 ## Indice
 + [Despripcion](#descripcion)
 + [Material](#material)
-+ [Diagrama del circuito](#diagrama)
-+ [Codigo arduino](#dodigo)
++ [Diagrama del circuito](## diagrama del circuito)
++ [Codigo arduino](#codigo)
 + [Circuito en fisico](#circuitos)
 + [Contacto](#contacto)
 ***
@@ -26,7 +26,7 @@ Este trabajo fue creado en **arduino** y consiste en una puerta que al momento e
 ***
 ## diagrama del circuito  
 ***
-## codigo arduino
+## codigo
 ~~~
 /*MANUEL ALEJANDRO TORRES FONSECA
  *ALARMA PARA PUERTA CON TEMPORIZADOR  
@@ -84,7 +84,7 @@ void loop(){                                            //inicio del metodo loop
 }                                                       //se termina el metodo loop
 ~~~
 ***
-## circuitos en fisico
+## circuitos 
 ![circuito1](/circuito1.jpg)  
 ![circuito2](/circuito2.jpg)
 ***
