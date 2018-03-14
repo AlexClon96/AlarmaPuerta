@@ -3,7 +3,7 @@
 ## Indice
 + [Despripcion](#descripcion)
 + [Material](#material)
-+ [Diagrama del circuito](## diagrama del circuito)
++ [Diagrama del circuito](#diagrama del circuito)
 + [Codigo arduino](#codigo)
 + [Circuito en fisico](#circuitos)
 + [Contacto](#contacto)
@@ -24,7 +24,7 @@ Este trabajo fue creado en **arduino** y consiste en una puerta que al momento e
 11. rectangulo de madera o carton (*solo para simular la puerta*)
 12. cinta diurex (*solo para pegar el iman a la puerta*)
 ***
-## [diagrama del circuito] [diag] 
+## diagrama del circuito 
 ***
 ## codigo
 ~~~
