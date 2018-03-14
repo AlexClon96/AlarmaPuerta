@@ -5,10 +5,10 @@
 + [Material](#Material)
 + [Diagrama del circuito](#Diagrama)
 + [Codigo arduino](#Codigo)
-+ [Circuito en fisico](#Circuito en fisico)
++ [Circuito en fisico](#Circuito
 + [Contacto](#Contaccto)
 ***
-## Descripcion   
+## descripcion   
 Este trabajo fue creado en **arduino** y consiste en una puerta que al momento en que se abre emite una alarma que activa una un led rojo y al mismo tiempo activa el pitido de una bocina,en cuanto se abra la puerta un **display** decrementa un contador que empieza en *cinco* y si llega a *uno* y la puerta esta cerrada entonces se desactiva la alarma pero si cuando llegue a *uno* y la pueta se encuentra abierta entonces el **display** de nuevo inicia en *cinco* y se decrementara realizando el mismo procedimiento.
 ***
 ## Material
