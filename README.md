@@ -78,5 +78,8 @@ void loop(){                                            //inicio del metodo loop
 }                                                       //se termina el metodo loop
 ~~~
 ***
+## Circuito en fisico
+![circuito1](/circuito1.jpg)
+***
 ## Contacto
 Cualquier duda, queja o aclaracion me pueden contactar en **correo:** 321ctorres@gmail.com  
