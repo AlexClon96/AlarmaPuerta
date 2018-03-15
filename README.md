@@ -25,6 +25,7 @@ Este trabajo fue creado en **arduino** y consiste en una puerta que al momento e
 12. cinta diurex (*solo para pegar el iman a la puerta*)
 ***
 ## Diagrama del circuito 
+![circuito3](/circuito3.jpg)  
 ***
 ## Codigo arduino
 ~~~
